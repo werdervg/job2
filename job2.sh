@@ -1,3 +1,3 @@
 #!/bin/sh
 /bin/touch test-on-slave
-echo 12121212 > test-on-slave
+echo DEVELOP > test-on-slave
